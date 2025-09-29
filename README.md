@@ -1,4 +1,5 @@
 Run the Server node basic_auth.js
+
 1/ Chạy file basic_auth.js
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc4d64f4-156d-44d7-a8de-e7a8fcf795f3" />
 2/ Trang public
