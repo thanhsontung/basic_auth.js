@@ -15,6 +15,7 @@ Run cookie_auth.js
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65e7fce0-a6cf-4d69-a31b-05cf18ad17c9" />
 2/ chạy profile
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/724c1d44-7a96-411d-ac1b-9b4c9bf50a47" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6afb2383-d15b-481b-a4ef-9d417e551072" />
 3/chạy logon
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e137b3e7-8a8e-422e-87d5-e007b1b6bf70" />
 
