@@ -9,3 +9,12 @@ Run the Server node basic_auth.js
 kết quả ra là:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37e35a57-d0fc-4008-89ee-4ef6c5aa0ec0" />
 
+Run cookie_auth.js
+
+1/ chạy login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65e7fce0-a6cf-4d69-a31b-05cf18ad17c9" />
+2/ chạy profile
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/724c1d44-7a96-411d-ac1b-9b4c9bf50a47" />
+3/chạy logon
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e137b3e7-8a8e-422e-87d5-e007b1b6bf70" />
+
